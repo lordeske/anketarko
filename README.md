@@ -26,13 +26,13 @@ The web platform for implementing an online survey system allows users to create
 
 ## Screenshots
 ## Capture 1
-![Capture1](./Screenshots/Capture.jpg)
+![Capture1](./Screenshots/Capture.JPG)
 
 ## Capture 2
-![Capture2](./Screenshots/Capture1.jpg)
+![Capture2](./Screenshots/Capture1.JPG)
 
 ## Capture 3
-![Capture3](./Screenshots/Capture2.jpg)
+![Capture3](./Screenshots/Capture2.JPG)
 
 ## Capture 4
-![Capture3](./Screenshots/Capture3.jpg)
+![Capture3](./Screenshots/Capture3.JPG)
