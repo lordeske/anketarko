@@ -13,7 +13,7 @@ $survey_id = "";
 $dbcon      = Database::getDb();
 $s          = new Survey();
 // show Surveys that are related to the user
-// var_dump($_SESSION);
+
 $user_id = (int) $_SESSION['userID'];
 $allsurveys = $s->displaySurveys($dbcon, $user_id);
 //var_dump($allsurveys);
