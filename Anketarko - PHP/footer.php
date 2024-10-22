@@ -48,7 +48,7 @@ date_default_timezone_set("Europe/Belgrade");
                     <div class="widget no-box">
                         <h5 class="widget-title">Kontaktiraj nas<span></span></h5>
 
-                        <p><a href="mailto:mihajlois5321@gs.viser.edu.rs" title="glorythemes">mihajlois5321@gs.viser.edu.rs</a></p>
+                        <p><a href="" title="glorythemes">mihajlois5321@gs.viser.edu.rs</a></p>
                         <p>Phone: +555 3333</p>
                         <ul class="social-footer2">
                             <li class=""><a title="youtube" target="_blank" href="https://www.youtube.com/"><img
